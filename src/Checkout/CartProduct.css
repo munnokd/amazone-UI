@@ -1,0 +1,26 @@
+.cartProduct{
+    display: flex; 
+    margin: 20px 0;
+    background-color: white;
+    padding: 10px;
+}
+.cartProduct>img{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+.cartProduct__info{
+    padding-left: 20px;
+}
+.cartProduct__info>h3{
+    font-size: 17px;
+    font-weight: 700;
+}
+.cartProduct__info>button{
+    background:#f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #846a29;
+    color: black;
+    cursor: pointer;
+}
