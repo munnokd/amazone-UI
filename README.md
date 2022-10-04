@@ -8,6 +8,4 @@ after installation of all node modules you can run your app.For these type below
 
 ### `npm start`
 
-This app hosting link is 
-
-### `https://e-clone-43320.web.app/`
+ Enjoy app
